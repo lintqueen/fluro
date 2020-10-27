@@ -1,4 +1,4 @@
-<img src="https://storage.googleapis.com/product-logos/logo_fluro.png" width="220">
+<img src="./assets/logo.png" width="220">
 <br/><br/>
 
 The brightest, hippest, coolest router for Flutter.
